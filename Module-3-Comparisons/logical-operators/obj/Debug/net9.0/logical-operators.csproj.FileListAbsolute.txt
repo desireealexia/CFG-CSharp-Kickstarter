@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/bin/Debug/net9.0/logical-operators
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/bin/Debug/net9.0/logical-operators.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/bin/Debug/net9.0/logical-operators.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/bin/Debug/net9.0/logical-operators.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/bin/Debug/net9.0/logical-operators.pdb
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/refint/logical-operators.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.pdb
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/logical-operators.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/logical-operators/obj/Debug/net9.0/ref/logical-operators.dll

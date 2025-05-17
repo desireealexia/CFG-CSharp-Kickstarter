@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/bin/Debug/net9.0/conditional-statements
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/bin/Debug/net9.0/conditional-statements.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/bin/Debug/net9.0/conditional-statements.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/bin/Debug/net9.0/conditional-statements.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/bin/Debug/net9.0/conditional-statements.pdb
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/refint/conditional-statements.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.pdb
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/conditional-statements.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/conditional-statements/obj/Debug/net9.0/ref/conditional-statements.dll

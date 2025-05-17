@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/bin/Debug/net9.0/comparison-operators
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/bin/Debug/net9.0/comparison-operators.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/bin/Debug/net9.0/comparison-operators.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/bin/Debug/net9.0/comparison-operators.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/bin/Debug/net9.0/comparison-operators.pdb
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/refint/comparison-operators.dll
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.pdb
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/comparison-operators.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module3/comparison-operators/obj/Debug/net9.0/ref/comparison-operators.dll

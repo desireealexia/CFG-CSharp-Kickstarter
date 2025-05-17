@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/bin/Debug/net9.0/dataTypes
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/bin/Debug/net9.0/dataTypes.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/bin/Debug/net9.0/dataTypes.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/bin/Debug/net9.0/dataTypes.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/bin/Debug/net9.0/dataTypes.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/refint/dataTypes.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/dataTypes.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/dataTypes/obj/Debug/net9.0/ref/dataTypes.dll

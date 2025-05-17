@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/bin/Debug/net9.0/collections
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/bin/Debug/net9.0/collections.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/bin/Debug/net9.0/collections.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/bin/Debug/net9.0/collections.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/bin/Debug/net9.0/collections.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/refint/collections.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/collections.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/collections/obj/Debug/net9.0/ref/collections.dll

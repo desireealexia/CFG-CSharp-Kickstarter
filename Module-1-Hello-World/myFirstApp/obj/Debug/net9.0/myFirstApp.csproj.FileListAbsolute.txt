@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/bin/Debug/net9.0/myFirstApp
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/bin/Debug/net9.0/myFirstApp.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/bin/Debug/net9.0/myFirstApp.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/bin/Debug/net9.0/myFirstApp.dll
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/bin/Debug/net9.0/myFirstApp.pdb
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.dll
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/refint/myFirstApp.dll
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.pdb
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/myFirstApp.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module1/myFirstApp/obj/Debug/net9.0/ref/myFirstApp.dll

@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/bin/Debug/net9.0/artithmetic
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/bin/Debug/net9.0/artithmetic.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/bin/Debug/net9.0/artithmetic.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/bin/Debug/net9.0/artithmetic.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/bin/Debug/net9.0/artithmetic.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/refint/artithmetic.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/artithmetic.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/artithmetic/obj/Debug/net9.0/ref/artithmetic.dll

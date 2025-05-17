@@ -1,0 +1,14 @@
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.AssemblyInfoInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.AssemblyInfo.cs
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.csproj.CoreCompileInputs.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/bin/Debug/net9.0/joining-strings
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/bin/Debug/net9.0/joining-strings.deps.json
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/bin/Debug/net9.0/joining-strings.runtimeconfig.json
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/bin/Debug/net9.0/joining-strings.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/bin/Debug/net9.0/joining-strings.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/refint/joining-strings.dll
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.pdb
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/joining-strings.genruntimeconfig.cache
+/Users/desiree/Documents/Code First Girls/C#/module2/joining-strings/obj/Debug/net9.0/ref/joining-strings.dll

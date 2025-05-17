@@ -1,0 +1,59 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@*
+1. Open Index.cshtml inside the BudgetTrackerApp project.
+
+2. Create a <h1> element to display the heading: Budget Tracker.
+
+3. Add some styling to this element in site.css: set the colour to green and font size to 50px.
+
+4. Create an HTML form using <form>:
+    a. Create 5 <input> for 5 different numerical expenses
+    b. Create 5 <label> tags for each of the expenses
+    c. Use <button> to submit the form
+
+5. In Index.cshtml.cs, create 5 properties called Expense1 - Expense5.
+
+6. Create a property called TotalExpenses to store the total expenses.
+
+7. Create an OnPost method that calculates the total expenses.
+
+8. In Index.cshtml, display this back to the user with @Model.TotalExpenses.
+*@
+
+<h1>Budget Tracker</h1>
+
+<form method="post">
+    <div>
+        <label asp-for="Expense1">Expense 1: </label>
+        <input asp-for="Expense1" type="number">
+    </div>
+
+    <div>
+        <label asp-for="Expense2">Expense 2: </label>
+        <input asp-for="Expense2" type="number">
+    </div>
+
+    <div>
+        <label asp-for="Expense3">Expense 3: </label>
+        <input asp-for="Expense3" type="number">
+    </div>
+
+    <div>
+        <label asp-for="Expense4">Expense 4: </label>
+        <input asp-for="Expense4" type="number">
+    </div>
+
+    <div>
+        <label asp-for="Expense5">Expense 5: </label>
+        <input asp-for="Expense5" type="number">
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
+
+<h2>Total Expenses: @Model.TotalExpenses</h2>
