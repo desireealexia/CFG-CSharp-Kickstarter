@@ -34,8 +34,8 @@ CFG-CSharp-Kickstarter/
 ├── Module-8-Reflection/
 │
 ├── Module-Exercises/
-│ ├── BudgetTrackerConsoleApp/
-│ └── BudgetTrackerWebApp/
+    ├── BudgetTrackerConsoleApp/
+    └── BudgetTrackerWebApp/
 ```
 
 ---
